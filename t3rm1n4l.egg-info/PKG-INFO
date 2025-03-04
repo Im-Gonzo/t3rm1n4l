@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: t3rm1n4l
+Version: 0.1.0
+Requires-Dist: rich>=13.5.2
+Requires-Dist: pygame>=2.5.2
+Requires-Dist: mutagen>=1.47.0
+Requires-Dist: tinytag>=1.9.0
+Requires-Dist: google-cloud-storage>=2.10.0
+Dynamic: requires-dist
